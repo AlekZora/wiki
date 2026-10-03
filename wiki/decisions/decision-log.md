@@ -6,6 +6,230 @@ Format: date · decision · why · trade-offs considered.
 
 ---
 
+<!-- Goal Map entries (2026-10-01 → 10-03) were written on 2026-10-03 from docs/PROJECT.md, docs/TASKS.md,
+docs/design/BRIEF.md, the Goal Map build log and the user's own list. Spec text is not copied here: each
+entry links to where the decision lives. "Not recorded" means the specs name no alternative. -->
+
+## 2026-10-03 — Goal Map: design direction shifting toward an epic voyage with tension
+
+**Decision:** The visual direction is moving away from calm and cozy, toward an epic voyage with tension. The references are the *Odyssey* and Jules Verne engravings.
+
+**Why:** Comes from the user, 2026-10-03. The reasoning hasn't been written down yet. The same day's Perplexity research on voyage maps and old cartography ([source](../sources/goal-map-visual-references-perplexity.md)) and the concept [fair-uncertainty](../concepts/fair-uncertainty.md) ("tension without judgment") are the nearest written grounding.
+
+**Alternatives considered:**
+- The current direction: the brief's "Calm, warm and personal" and its cozy refuge (Tension I in the [synthesis](../answers/goal-map-wiki-synthesis.md)), plus DESIGN.md's survey-sheet look.
+- **Open:** how tension fits the product rules: no guilt, the narrator never softens drift, and no borrowed IP. The *Odyssey* and Verne are inspiration for a feeling, which the brief allows; names, places and lettering from them are not.
+
+**Lives in:** not yet in the specs. [BRIEF.md › Feeling](<../projects/goal-map/docs/design/BRIEF.md#Feeling>) and [DESIGN.md](../projects/goal-map/docs/DESIGN.md) still describe calm. The design track's Phase 1 directions are where it should land.
+
+**Status:** In progress, 2026-10-03.
+
+---
+
+## 2026-10-03 — Goal Map: design track in a separate worktree
+
+**Decision:** Design runs as its own track, in parallel with the backend. It uses a separate session (Claude Code or ChatGPT) in a git worktree on the branch `design` (`../goal-map-design`). It writes only inside `docs/design/`, and Julien merges. Its result replaces `docs/DESIGN.md` before Task J1.
+
+**Why:** The backend session works in the same repo at the same time, and the two would collide. Version 1 was judged too plain, and the first impression on a phone decides sign-ups.
+
+**Alternatives considered:** Not recorded. The specs only name a Claude Code session; ChatGPT as the design tool comes from the user.
+
+**Lives in:** [BRIEF.md › Rules for this session](<../projects/goal-map/docs/design/BRIEF.md#Rules for this session>), [TASKS.md](../projects/goal-map/docs/TASKS.md) (header notes).
+
+**Status:** Active.
+
+---
+
+## 2026-10-03 — Goal Map: positioning, a general headline with builders first
+
+**Decision:** Goal Map is the app for reaching your goal, shown first through builders:
+- the headline is general
+- the subline names builders shipping side projects
+- the sample map is a builder's journey
+- builder examples come first, with other goals rotating in
+
+Any goal is accepted.
+
+**Why:** It keeps the starting segment (2026-10-02 entry below) in focus without turning away other goals, so everyone feels welcome while tuning and marketing focus on one segment.
+
+**Alternatives considered:** Not recorded.
+
+**Lives in:** [PROJECT.md › Business model and decision point](<../projects/goal-map/docs/PROJECT.md#Business model and decision point (decided 2026-10-01, not built yet)>) (Positioning), [BRIEF.md › Positioning](<../projects/goal-map/docs/design/BRIEF.md#Positioning>).
+
+**Status:** Active.
+
+---
+
+## 2026-10-03 — Goal Map: demand test with strangers before the test week
+
+**Decision:** Before the test week, post a 10–20 second clip of a path drawing itself, in places where the starting segment spends time. It links to a page with the founding offer. Count views, clicks, sign-ups and purchases.
+
+**Why:** The test-week testers have already said yes to Julien, so the test week shows whether people *use* Goal Map, not whether strangers *want* it. Both are needed. This came out of Tension K in the [synthesis](../answers/goal-map-wiki-synthesis.md) (Roger Chen update, 2026-10-02).
+
+**Alternatives considered:** The test week alone, as the decision point was first written. Its blind spot is the reason for this decision.
+
+**Lives in:** [PROJECT.md › Business model and decision point](<../projects/goal-map/docs/PROJECT.md#Business model and decision point (decided 2026-10-01, not built yet)>). Tracking: [launch/demand-test.md](../projects/goal-map/launch/demand-test.md).
+
+**Status:** Active. Date taken from the commit that added it (`a54674e`).
+
+---
+
+## 2026-10-03 — Goal Map: waypoints and "Show me how" as AI job 4, measured against blind baselines
+
+**Decision:** A fourth AI job:
+- Each active leg is broken into 3–6 waypoints (Task W).
+- "Show me how" gives practical help for one waypoint (Task G).
+
+Quality is measured in Task GE with a judge rubric, Julien's benchmarks, and two blind baselines on the same model: a plain question, and the full situation pasted into a plain chat. Targets: beat the plain question in at least 70% of cases, and at least tie the pasted situation.
+
+**Why:** "We don't sell better answers than a chatbot; we sell finishing." The help must be at least as good as asking a chatbot directly, so it is measured against exactly that. If it can't beat the plain baseline, building stops and Julien is told.
+
+**Alternatives considered:** Not recorded. Open-ended chat stays out of scope. The guide allows one follow-up question, then it's back to work.
+
+**Lives in:** [PROJECT.md › Step guidance (AI job 4)](<../projects/goal-map/docs/PROJECT.md#Step guidance (AI job 4)>), [TASKS.md](../projects/goal-map/docs/TASKS.md) Tasks W, G, GE.
+
+**Status:** Active, not built. Date taken from the commit that added it (`a54674e`).
+
+---
+
+## 2026-10-02 — Goal Map: starting segment, builders shipping side projects
+
+**Decision:** The first segment is solo builders who want to ship a side project and get its first real users. Evals and playbook work focus there first (playbooks `ship-software-product` and `grow-an-audience`). Other goal types keep working but get less tuning.
+
+**Why:** It is where a rule-checked path most clearly beats asking ChatGPT. It is also Julien's own audience (indie builders, build in public) and Julien's own story.
+
+**Alternatives considered:** Not recorded.
+
+**Lives in:** [PROJECT.md › Business model and decision point](<../projects/goal-map/docs/PROJECT.md#Business model and decision point (decided 2026-10-01, not built yet)>) (Starting segment).
+
+**Status:** Active.
+
+---
+
+## 2026-10-02 — Goal Map: first milestone free, and Plus can be bought from day one
+
+**Decision:** Everything is free until the first milestone is reached, including waypoints and "Show me how" (fair-use limit of 20 calls on leg 1). This replaces the 30-day trial. Plus can be bought at any moment from the first session. The free milestone is an offer next to buying, not a gate in front of it.
+
+**Why:** The purchase moment becomes the high point of reaching milestone 1. Purchase points sit at natural moments, never as a pop-up before the map is drawn.
+
+**Alternatives considered:** A 30-day trial (replaced).
+
+**Lives in:** [PROJECT.md › Business model and decision point](<../projects/goal-map/docs/PROJECT.md#Business model and decision point (decided 2026-10-01, not built yet)>).
+
+**Status:** Active, not built.
+
+---
+
+## 2026-10-02 — Goal Map: ask before planning (Task P1b)
+
+**Decision:** Before drafting, the planner may ask up to two goal-specific questions about the unknowns that would change the path most. Answers are optional and stored as `Goal.clarifications`. It never asks about time, deadline, experience or starting point, which the constraints screen already covers.
+
+**Why:** Some unknowns (who it's for, what "done" looks like) change the path more than anything else. The questions are a bonus, never a blocker: if the call fails, the map is drawn anyway.
+
+**Alternatives considered:** Not recorded. Planning straight from the four intake questions (P1's behaviour) stays as the skip path.
+
+**Lives in:** [PROJECT.md › Path design (AI job 2)](<../projects/goal-map/docs/PROJECT.md#Path design (AI job 2)>), [TASKS.md](../projects/goal-map/docs/TASKS.md) Task P1b.
+
+**Status:** Active, next task. Date taken from the commit that added it (`754b9b7`).
+
+---
+
+## 2026-10-01 — Goal Map: Sonnet as the plan model
+
+**Decision:** Path design runs on Sonnet 5.5 (`LLM_PLAN_MODEL`). The small model (`LLM_MODEL`) handles intake and check-ins.
+
+**Why:** The three P1 cases were compared on Sonnet 5.5 and Opus 5.5 with the same goals pinned. All six paths passed the eight rules on a read, and Sonnet was about a third cheaper per path. Path design runs once per goal, so a larger model costs little per user. That fits the cost guardrail (well under $0.50 per active user per month).
+
+**Alternatives considered:**
+- **Opus 5.5**, used for the P1 manual runs. Its quality matched Sonnet's, at a higher cost.
+- **Haiku**, the fallback through `LLM_MODEL`.
+
+The comparison was three cases read by hand, not an eval. Task P3's plan evals should confirm it.
+
+**Lives in:** [PROJECT.md › Tech stack](<../projects/goal-map/docs/PROJECT.md#Tech stack>), [build log 2026-10-01](../projects/goal-map/build-log.md).
+
+**Status:** Active.
+
+---
+
+## 2026-10-01 — Goal Map: eight path rules and the planning pipeline
+
+**Decision:** A good path follows eight rules:
+1. crude but complete first
+2. states, not activities
+3. riskiest first
+4. reality early
+5. evidence
+6. hidden work named
+7. fits the person
+8. ends exactly at the done criterion
+
+The planner prompt, its critique pass, the code checks and the plan evals all use exactly this list. `planPath()` is the only entry point. It runs a draft call (playbook → backcast → pre-mortem → milestones), then a critique-and-revise call, then pure code checks. There is one retry, then a readable error.
+
+**Why:** The path is the core of the product. If it is wrong, everything else only makes a bad plan look good. The model is never asked for durations or dates, because that is how the planning fallacy gets in (see [planning-fallacy](../concepts/planning-fallacy.md)).
+
+**Alternatives considered:** A single milestone-generation prompt (`lib/prompts/map.ts`, Task 4), retired in P1.
+
+**Lives in:** [PROJECT.md › Path design (AI job 2)](<../projects/goal-map/docs/PROJECT.md#Path design (AI job 2)>), [TASKS.md](../projects/goal-map/docs/TASKS.md) Task P1. Code: `lib/plan.ts`, `lib/pathRules.ts`, `lib/planChecks.ts`.
+
+**Status:** Active, built (commit `9f99c30`).
+
+---
+
+## 2026-10-01 — Goal Map: business model and decision point
+
+**Decision:**
+- **Free forever:** the map, check-ins, drift warnings, detours and help when stuck.
+- **Goal Map Plus** (around $40/year or $8/month): guided help after milestone 1, the journey layer, redraws, more than one goal, and later focus sessions.
+- **Founding offer** at launch.
+- **Decision point (go / change / stop):** after the P tasks and J1, one week with 10–20 real people from the starting segment. Continue if at least a third check in three or more times that week and some actually pay.
+
+**Why:** Features get designed with the paid/free line in mind. Nobody loses their journey or gets left mid-way. The price follows the 2026 productivity median ($39.99/year, from [RevenueCat 2026](../sources/revenuecat-state-of-subscription-apps-2026.md)). The planner, its evals and the classifier stay as portfolio work whatever the decision point says.
+
+**Alternatives considered:**
+- A one-time journey pass per goal (around $10–15), still to test, because goals come in bursts.
+- Courses, bootcamps and coaches as buyers, a later option.
+
+**Lives in:** [PROJECT.md › Business model and decision point](<../projects/goal-map/docs/PROJECT.md#Business model and decision point (decided 2026-10-01, not built yet)>).
+
+**Status:** Active, not built. Amended by the 10-02 and 10-03 entries above.
+
+---
+
+## 2026-10-01 — Goal Map: four layers, purpose → engine → engagement → revenue
+
+**Decision:** Everything in Goal Map serves the user reaching their goal, in this order:
+1. purpose
+2. engine
+3. engagement
+4. revenue
+
+Success is milestones reached. Every engagement feature must lead back to the next milestone, and minutes never buy distance.
+
+**Why:** It keeps the journey layer and pricing from competing with the goal itself. That is the gap between craft and compulsion described in [compulsion-vs-craft](../concepts/compulsion-vs-craft.md).
+
+**Alternatives considered:** Not recorded.
+
+**Lives in:** [PROJECT.md › Product principles](<../projects/goal-map/docs/PROJECT.md#Product principles (do not change without asking)>).
+
+**Status:** Active. Dated from the 2026-10-01 PROJECT.md rewrite for the product plan.
+
+---
+
+## 2026-10-01 — Goal Map: built as a product, in stages, instead of a two-day prototype
+
+**Decision:** Goal Map is being built as a product, in stages, and every stage must be usable by real testers. It stays an AI-engineering portfolio piece, so correctness, validation and measurability of the AI parts matter more than feature count.
+
+**Why:** Decided by the user, 2026-10-01. No further reasoning was recorded.
+
+**Alternatives considered:** The original plan, a two-day prototype and portfolio piece. PROJECT.md's out-of-scope list still reflects prototype scope, so a product idea that collides with it needs a PROJECT.md decision first.
+
+**Lives in:** [PROJECT.md › What we are building](<../projects/goal-map/docs/PROJECT.md#What we are building>).
+
+**Status:** Active.
+
+---
+
 ## 2026-09-23 — Basic Game replatforms to Roblox; the Zone is demoted from distribution strategy
 
 **Decision:** Ship target becomes a **Roblox experience**. One throwaway web prototype per candidate verb (TypeScript + Canvas, unpublished) is kept as the loop *instrument*. The Attractor Zone is retained as tone and format canon but **demoted from distribution strategy**. The anthology becomes an in-game retention mechanic rather than marketing. Timeline withdrawn pending re-scope. See [constraint-sheet.md](../projects/basic-game/constraint-sheet.md); the web sheet is preserved at [constraint-sheet-WEB-SUPERSEDED.md](../projects/basic-game/constraint-sheet-WEB-SUPERSEDED.md).

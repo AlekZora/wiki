@@ -379,8 +379,14 @@ see [recent.md](recent.md) (generated) or [log.md](log.md) (newest first).
 - [Goal Map — What the Wiki Says](answers/goal-map-wiki-synthesis.md) — Ranked follow-up: top 10 ideas by fit to "reach the next milestone" (honest-narrator rule, session hand-off line, worst-day step, beat-library story, commitment window), six tensions with the current design, two bolder directions, reread list and vault gaps; updated 2026-10-01 with the goal-achievement research report and then checked against seven primary sources (evidence-check table, Tensions G–I, cozy and pricing evidence)
 
 ## Projects
-- [Goal Map — Overview](projects/goal-map/overview.md) — Active build (2026-10-01), going to product: one goal → AI milestones → a map of daily footsteps; rules, repo docs, research links
-- [Goal Map — Build Log](projects/goal-map/build-log.md) — Build log under the CLAUDE.md rule; Tasks 1–5 done 2026-09-28, Task 6 in progress
+- [Goal Map — Overview](projects/goal-map/overview.md) — **Project hub** (rebuilt 2026-10-03): summary, status, current task, and links to the specs (`docs/` symlink into the repo, Mac only), decisions, research, testing, launch and ideas. One copy per document: specs in the repo, everything else here
+- [Goal Map — Build Log](projects/goal-map/build-log.md) — Build log under the CLAUDE.md rule; Tasks 1–6 and P1 done by 2026-10-01
+- [Goal Map — Research](projects/goal-map/research.md) — Link list: syntheses, Perplexity reports, primary sources checked, concepts; competitor scan still only a PROJECT.md paragraph
+- [Goal Map — Design references](projects/goal-map/design-references/README.md) — Images and notes for the design session; direction shifting toward an epic voyage with tension
+- [Goal Map — Real goals](projects/goal-map/testing/real-goals.md) — Template: real goals for the plan and guide evals, plus "My own path" benchmark cases
+- [Goal Map — Test week](projects/goal-map/testing/test-week.md) — Template: testers, check-ins, milestones, paid, quotes, "Would you have got this far with ChatGPT alone?"
+- [Goal Map — Demand test](projects/goal-map/launch/demand-test.md) · [Build in public](projects/goal-map/launch/build-in-public.md) · [Founding offer](projects/goal-map/launch/founding-offer.md) — Launch tracking sheets
+- [Goal Map — Later ideas](projects/goal-map/ideas/later.md) — Parked ideas; links to feature inspiration and the bolder directions
 
 - [Novel Cross-Domain Connections](projects/novel-connections.md) — Unexpected links across all wiki sources, especially fiction × AI alignment
 - [Side Quest Engine](projects/side-quest-engine.md) — Game engine side quest system with organic NPC gossip propagation mechanics (active, w/ cousin)

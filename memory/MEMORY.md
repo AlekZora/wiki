@@ -15,14 +15,25 @@ gentle drift warning. Two-day prototype and AI-engineering portfolio piece.
 - Code `~/projects/goal-map/` (Next.js + TS) · `github.com/AlekZora/goal-map`
 - Rules `docs/PROJECT.md` · visual spec `docs/DESIGN.md` · plan `docs/TASKS.md`
 - Tasks 1–6 and **P1 (path design: intake questions, playbooks, planPath pipeline)** done and
-  pushed 2026-10-01 (`7cd08dc`). Plan model Sonnet 5.5 via `LLM_PLAN_MODEL`. **Next: P2**, then
-  P3, J1–J3, 7, H, S, J4, 8, 9. Playbooks are drafts awaiting Julien's review.
+  pushed 2026-10-01 (`7cd08dc`). Plan model Sonnet 5.5 via `LLM_PLAN_MODEL`. **Next: P1b**
+  (TASKS.md order updated 10-02: P1b → P3 → P4 → W → G → GE → P2 → visual direction → J1–J3 →
+  7 → H → S → J4 → 8 → 9). Playbooks are drafts awaiting Julien's review.
+- **One copy per document (2026-10-03).** Specs (PROJECT/TASKS/DESIGN, `docs/design/`,
+  `docs/prototypes/`) live only in the repo. Everything else lives in the vault:
+  `wiki/projects/goal-map/` (hub `overview.md`, research, design-references, testing, launch,
+  ideas, build log), plus Goal Map entries in `wiki/decisions/decision-log.md`. The
+  `wiki/projects/goal-map/docs` symlink points to `/Users/alekozoranov/Projects/goal-map/docs`
+  and is Mac only. Never copy spec text into the vault; link through the symlink. The repo's
+  `docs/research/wiki-synthesis.md` is now a pointer to the vault answer.
+- **Real vault = `~/Vaults/wiki` (git, pushed to AlekZora/wiki).** The iCloud copy at
+  `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/` is being retired by the user
+  (Obsidian Sync moving to B). Don't touch it.
 - Vault research: `wiki/answers/goal-map-feature-inspiration.md` (09-29),
   `wiki/answers/goal-map-wiki-synthesis.md` (10-01, ranked top 10 + evidence check)
 - **Going to be a product** (decided 2026-10-01). PROJECT.md's out-of-scope list is prototype
   scope; product ideas that collide with it need a PROJECT.md decision.
-- Vault home `wiki/projects/goal-map/` (overview + build log). The CLAUDE.md Build Log Rule now
-  covers `~/projects/goal-map/`.
+- The CLAUDE.md Build Log Rule covers `~/projects/goal-map/` (on disk it's `~/Projects`,
+  capital P; the filesystem doesn't distinguish case).
 - Synthesis checked against 7 primary sources 2026-10-01 (section 5, evidence-check table).
   New concepts: implementation-intentions, coziness. Planning fallacy added the same
   day (concept planning-fallacy); no core research gaps open.
