@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "WebSearch",
+      "Bash(mv:*)",
+      "Bash(cp archive/research-track/paper-abstract.md .)",
+      "Bash(cp archive/research-track/minimum-asymmetry-demo.md .)",
+      "Bash(cp archive/research-track/positioning-v2.md .)",
+      "Bash(cp archive/research-track/westworld.md original-concept-notes.md)"
+    ]
+  }
+}

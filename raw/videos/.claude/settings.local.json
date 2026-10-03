@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(mkdir -p /Users/alekozoranov/wiki/raw/books)",
+      "Bash(touch /Users/alekozoranov/wiki/raw/books/.gitkeep)"
+    ]
+  }
+}

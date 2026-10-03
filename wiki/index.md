@@ -1,0 +1,396 @@
+# Wiki Index
+
+Grouped by type — this is the lookup view. For **what was added most recently**,
+see [recent.md](recent.md) (generated) or [log.md](log.md) (newest first).
+
+## Sources
+
+<!-- articles -->
+### Articles
+
+- [Urban expansion in the age of liberalism](sources/urban-expansion-age-of-liberalism.md) — *Works in Progress*, 2026-01-28; how 19th-century cities grew tenfold — extension plans, regulated monopolies, user-fee funding, and death by inflation
+- [Beauty In My Backyard](sources/beauty-in-my-backyard-hughes.md) — Samuel Hughes, *Works in Progress*, 2026-07-29; NIMBY vs NITBY, why heritage conservation triumphed, ugliness as a distant-observer effect
+- [How an Engineering Culture Launched Modernity](sources/engineering-culture-modernity-goldstone.md) — Jack Goldstone, *Cato Unbound*, 2009-11-04; the great divergence as a marriage of engineering culture and entrepreneurship
+- [AI 2027](sources/ai-2027.md) — Kokotajlo, Alexander, Lifland, Larsen & Dean, ai-2027.com, 2025-04-03 (slowdown + race endings)
+- [A Framework for Frontier AI and the Dawning of a New Age](sources/frontier-ai-standards-body-hassabis.md) — Demis Hassabis, 2026-07-14
+- [The bizarre quantum paradox of 'negative time'](sources/negative-time-quantum-paradox.md) — Richard Fisher, BBC Future, 2025-03-08
+- [How Might We Learn?](sources/how-might-we-learn.md) — Andy Matuschak, andymatuschak.org, 2026-06-14
+- [Quantum Computing for the Very Curious](sources/quantum-computing-curious.md) — Michael Nielsen, 2026-06-14
+- [High-quality generation of dynamic game content via small language models](sources/dynamic-game-content-slm-defamelm.md) — Munk, Valdivia & Burelli, arxiv:2601.23206, FDG '26, 2026-05-19
+- [LOOP: A Plug-and-Play Neuro-Symbolic Framework](sources/loop-neuro-symbolic-planning.md) — Virwani & Suryawanshi, arxiv:2508.13371, 2025-08-18
+- [LLM Reasoner and Automated Planner: A new NPC approach](sources/llm-reasoner-automated-planner-npc.md) — Puerta-Merino & Sabater-Mir, arxiv:2501.10106, 2025-01-17
+- [NPC Grounding Architecture — LLM + Symbolic Planner](sources/npc-grounding-architecture-perplexity.md) — Perplexity AI synthesis, 2026-06-08
+- [What kind of problem is AI currently facing in games?](sources/ai-npc-unsolved-problem-perplexity.md) — Perplexity AI synthesis, 2026-06-07
+- [A Functional Taxonomy of World Models](sources/functional-taxonomy-world-models.md) — Fei-Fei Li / World Labs, 2026-06-03
+- [Insight Learning (The Decision Lab)](sources/insight-learning-decision-lab.md) — Celine Huang, *The Decision Lab*, 2025-08-19
+- [Exploring persistence in gaming: self-determination and social identity](sources/persistence-gaming-sdt-jansz.md) — Jansz et al., *Computers in Human Behavior*, 2014
+- [Nearly Half of Players Say 'Creation and Self-Expression' Are Their Main Reasons for Gaming](sources/creation-self-expression-fandom-study.md) — Jennifer Maas, *Variety* (Fandom study), 2024-05-20
+- [Psychophysiology and Emotions in Games User Research](sources/psychophysiology-emotions-gur.md) — Try Evidence Research Team, 2024-03-18
+- [Competitive and Cooperative Video Games and Friendship Quality in Adolescence](sources/competitive-cooperative-gaming-friendship.md) — van den Berg & Cillessen, *Computers in Human Behavior*, 2018
+- [What Makes Players Recommend Games to Friends](sources/why-players-recommend-games.md) — Perplexity AI synthesis, 2026-05-19
+- [Dynamic Brains and the Changing Rules of Neuroplasticity](sources/dynamic-brains-neuroplasticity-voss.md) — Voss et al., *Frontiers in Psychology*, 2017
+- [Neuroplasticity](sources/neuroplasticity-wikipedia.md) — Wikipedia, reference
+- [Time travel](sources/time-travel-wikipedia.md) — Wikipedia, reference
+- [John von Neumann — Biography](sources/john-von-neumann-britannica.md) — William Poundstone, *Britannica*, 1998
+- [Serious Games and Adolescents' Internet Adaptability](sources/serious-games-internet-adaptability.md) — JMIR Games, 2026-03-09
+- [Gravity May Be Key Evidence That Our Universe Is a Simulation](sources/gravity-simulation-hypothesis-vopson.md) — Darren Orf, *Popular Mechanics*, 2025-12-23
+- [This Theory Says Time Has Three Dimensions](sources/three-dimensions-of-time-theory.md) — Paul M. Sutter, *Popular Mechanics*, 2026-01-09
+- [Creativity](sources/creativity-wikipedia.md) — Wikipedia, reference
+- [Cybernetics](sources/cybernetics-wikipedia.md) — Wikipedia, reference
+- [Biotechnology](sources/biotechnology-wikipedia.md) — Wikipedia, reference
+- [Requests for Startups — Spring 2026](sources/yc-requests-for-startups-spring-2026.md) — Y Combinator, 2026-04
+- [Requests for Startups — Fall 2026](sources/yc-requests-for-startups-fall-2026.md) — Y Combinator, 2026-09
+- [How to Become a Robotics Engineer in 6 Months (RESOURCES)](sources/robotics-engineer-6-month-roadmap-deronin.md) — @DeRonin_, X, 2026-09-02
+- [The Games Industry on What Gaming Might Be Like in 2030](sources/gaming-industry-2030-predictions.md) — Cam Shea, *IGN*, 2020-06-24
+- [AI Orchestration Papers 2025 — Curated Research Set](sources/ai-orchestration-papers-2025.md) — curated, 2026-04-11
+- [Tomorrow's physics test: machine learning](sources/ml-in-physics-education.md) — *Symmetry Magazine*, 2024-05-07
+- [The Synthetic Biology Community Builder](sources/synthetic-biology-community-builder.md) — Paolo Pontoniere, *Proto.life*, 2022-04-07
+- [Mind Grown - Human Agency Analysis](sources/human-agency-analysis-chatgpt.md) — ChatGPT conversation, 2026-09-06; Harry Potter as an agency-types case study, diagnosing a self-initiation bottleneck, mapped onto the same competence-vs-agency gap in AI agents
+- [The Founder's Dilemma](sources/founders-dilemma-wasserman.md) — Noam Wasserman, *Harvard Business Review*, 2008-02; rich-vs-king trade-off between building company value and retaining founder control
+- [The Rise of "Wet" Artificial Intelligence](sources/wet-ai-mallavarapu.md) — Aneil Mallavarapu, *Proto.life*, 2023-11-16
+- [Insight Learning](sources/insight-learning-psychestudy.md) — Praveen Shrestha, *Psychestudy*, 2017-11-17
+- [Builders, Solvers and Cynics](sources/builders-solvers-cynics.md) — Alex Danco, *a16z*, 2025-10-23
+- [fast.ai — Providing a Good Education in Deep Learning](sources/fastai-teaching-philosophy.md) — Rachel Thomas, *fast.ai*, 2016-10-08
+- [In Defense of Screen Time](sources/rachel-thomas-screen-time.md) — Rachel Thomas, *rachel.fast.ai*, 2024-10-29
+- [How To Use AI for the Ancient Art of Close Reading](sources/fastai-ai-close-reading.md) — Rachel Thomas, *fast.ai*, 2026-01-21
+- [Stop Saying Boredom is Good for Kids](sources/fastai-stop-saying-boredom.md) — Rachel Thomas, *fast.ai*, 2025-12-03
+- [Risks and Limitations of AI in the Life Sciences](sources/risks-ai-life-sciences.md) — Rachel Thomas, *Answer AI*, 2026-03-17
+- [Marc Andreessen: Three Years Into an 80-Year Revolution](sources/andreessen-80-year-revolution.md) — @realBigBrainAI, 2026-04-06
+- [Services: The New Software](sources/services-new-software.md) — Julien Bek, *Sequoia*, 2026-03-06
+- [Interview: Atari's Nolan Bushnell on 50 Years of Invention](sources/nolan-bushnell-atari-interview.md) — Michael Gold, *Sequoia*, 2022-08-11
+- [LayerZero's Bryan Pellegrino: From Poker to Protocols](sources/layerzero-bryan-pellegrino.md) — Sam Eifling, *Sequoia*, 2022-06-28
+- [Jack Dorsey: Every Company Can Now Be a Mini-AGI](sources/jack-dorsey-mini-agi.md) — Sequoia, 2026-04-02
+- [Best Practices for Building Agentic Systems](sources/agentic-systems-best-practices-doerrfeld.md) — Bill Doerrfeld, *InfoWorld*, 2026-04-07
+- ["The Door Problem" of Game Design](sources/door-problem-game-design.md) — Liz England, *Game Developer*, 2014-04-23
+- [I Don't Want a Learning Dashboard for My Child](sources/fastai-no-dashboard.md) — Rachel Thomas, *fast.ai*, 2026-02-17
+- [There's No Such Thing as Not a Math Person](sources/fastai-not-a-math-person.md) — Rachel Thomas, *fast.ai*, 2022-03-15
+- [Christopher Nolan's Information Asymmetry as Narrative Technique](sources/nolan-information-asymmetry-analysis.md) — analysis
+- [Christopher Nolan's Non-Linear Storytelling and Mystery-Reveal Mechanics](sources/nolan-nonlinear-storytelling.md) — analysis
+- [How Information Asymmetry Drives the Themes of Memento](sources/memento-information-asymmetry-analysis.md) — analysis
+- [Externalization in LLM Agents](sources/externalization-llm-agents-zhou-2026.md) — Zhou et al., arXiv:2604.08224, 2026-04-09
+- [Moon Base: Igniting Progress (NASA Architecture User's Guide)](sources/nasa-moon-base-users-guide.md) — NASA, 2026-04
+- [Mystery & Viral AI Agent — Curated Research Brief](sources/mystery-viral-ai-research-brief.md) — curated, 2026-04-17
+- [Paradox](sources/paradox-wikipedia.md) — Wikipedia, reference
+- [The AI Revolution in Math Has Arrived](sources/ai-revolution-math-kakaes.md) — Konstantin Kakaes, *Quanta Magazine*, 2026-04-13
+- [AI Orchestration Papers 2025–2026 — Curated Research Set](sources/ai-orchestration-papers-2026.md) — curated, 2026-04-19
+- [For Hideo Kojima, Creativity is 'Like a Disease'](sources/kojima-creativity-like-disease.md) — Dean Blake, *Man of Many*, 2025-09-15
+- [Death Stranding 2: An Interview with Hideo Kojima](sources/kojima-death-stranding-2-ps-interview.md) — *PlayStation Blog*, 2025-05-08
+- [Agentic Engineering: How Swarms of AI Agents Are Redefining Software Engineering](sources/agentic-engineering-swarms-cisco.md) — Kumar & Ramagopal (Cisco), *LangChain*, 2026-04-17
+- [Fabliau](sources/fabliau-wikipedia.md) — Wikipedia, reference
+- [Harness Engineering: Leveraging Codex in an Agent-First World](sources/harness-engineering-openai-codex.md) — Ryan Lopopolo, *OpenAI*, 2026-04-27
+- [List of Narrative Techniques](sources/narrative-techniques-wikipedia.md) — Wikipedia, reference
+- [Narrative](sources/narrative-wikipedia.md) — Wikipedia, reference
+- [Nonlinear Narrative](sources/nonlinear-narrative-wikipedia.md) — Wikipedia, reference
+- [Play (Activity)](sources/play-activity-wikipedia.md) — Wikipedia, reference
+- [Adults Returning to Childhood Games Seek the Person They Once Were](sources/nostalgie-gaming-gamestar.md) — Duy Linh Dinh, *Gamestar*, 2026-05-17
+- [The Theory of Flow by Mihaly Csikszentmihalyi](sources/Flow-Erleben%20Theorie%20von%20Csikszentmihalyi.md) — Prof. Dr. Florian Becker
+- [Loop Engineering](sources/loop-engineering-osmani.md) — Addy Osmani, 2026-06-09
+- [Why Tacit Knowledge is More Important Than Deliberate Practice](sources/tacit-knowledge-is-real-chin.md) — Cedric Chin, Commoncog, 2020-06-09
+- [Copying Better: How To Acquire The Tacit Knowledge of Experts](sources/copying-better-tacit-knowledge-chin.md) — Cedric Chin, Commoncog, 2020-06-16
+- [Stop Building Foxconn Factories for Your Agents](sources/stop-building-foxconn-factories.md) — Garry Tan, 2026-06-01
+- [Façade: An Experiment in Building a Fully-Realized Interactive Drama](sources/mateas-gdc2003.md) — Michael Mateas & Andrew Stern, GDC 2003
+
+
+- [Memory in AI Agents: A Survey of Forms, Functions, and Dynamics](sources/2512.13564v2.md) — Yuyang Hu et al., arXiv:2512.13564v2, 2025
+- [Are Ideas Getting Harder to Find?](sources/ideas-getting-harder-to-find-bloom.md) — Bloom, Jones, Van Reenen & Webb, *American Economic Review* 110(4), 2020-04
+- [Expert comment: why is Gen Z looking to the stars for meaning?](sources/gen-z-astrology-brookes.md) — Dr Jessica Eastwood, Oxford Brookes University, 2025-05-02
+- [How Millennials & Gen Z Made Astrology a Billion-Dollar Industry](sources/astrology-billion-dollar-industry-bazaar.md) — Alice Jeffery, *Harper's BAZAAR Australia*, 2023-01-09
+- [10 Games That Are Easy To Learn But Hard To Master](sources/easy-learn-hard-master-gamerant.md) — Nick Susa, *GameRant*, 2023-02-28
+- [What Makes Games Easy to Learn And Hard to Master](sources/easy-to-learn-hard-to-master-jozwik.md) — Marcin Jóźwik, *Game Developer*, 2023-08-21
+- [How Single-Player and Multiplayer Games Spread Through Social Networks](sources/single-multiplayer-diffusion-social-networks.md) — research synthesis, unattributed
+- [Play, watch, share: cultural presence of games on video-based social media](sources/play-watch-share-wukong-bilibili.md) — Zhang, Shao & Li, *Humanities and Social Sciences Communications*, 2025-07-22
+- [Quick take: Word of mouth is no longer the single most powerful games discovery tool](sources/word-of-mouth-discovery-midia.md) — Karol Severin, MIDiA Research, 2021-09-03
+- [how to be good at research](sources/how-to-be-good-at-research-vivek.md) — vivek (@itsreallyvivek), 2026-06-10
+- [How to fix your entire life in 1 day](sources/fix-your-life-in-a-day-dankoe.md) — Dan Koe (@thedankoe), 2026-01-12
+- [You need to be delusional if you want to succeed](sources/you-need-to-be-delusional-dankoe.md) — Dan Koe (@thedankoe), X, 2026-09-12; delusional/impossible goals as a deliberate attention-filter override, Jobs's Reality Distortion Field as the same mechanism applied socially
+- [Why Europe doesn't have a Tesla](sources/why-europe-doesnt-have-a-tesla-wip.md) — *Works in Progress*, 2026-02-17
+- [The Principles of Getting Ahead](sources/principles-of-getting-ahead-hvdes.md) — @0xHvdes, X, 2026-09-10; seven principles for disproportionate returns — asymmetric bets, leverage, proximity to opportunity, being easy to bet on, compounding games, the talent stack, surface area for luck
+- [An Evidence-Based Goal-Achievement System for a Personal Productivity App](sources/evidence-based-goal-achievement-system.md) — unattributed AI research report (likely Perplexity), undated; goal pursuit as a closed loop across six failure points: if–then plans, barrier-diagnosed start help, ready-to-resume checkpoints, habit vs. streaks, review that ends in a decision, fading support
+- [Implementation Intentions and Goal Achievement: A Meta-Analysis](sources/gollwitzer-sheeran-2006-implementation-intentions.md) — Gollwitzer & Sheeran, *Adv. Exp. Soc. Psych.*, 2006; if–then plans d = .65 over 94 tests; rehearsal 87% vs reminder 40%; helps disengagement too
+- [A Meta-Analysis of the Effects of MCII on Goal Attainment](sources/wang-2021-mcii-meta-analysis.md) — Wang et al., *Frontiers in Psychology*, 2021-05-12; g = 0.336 (≈0.24 bias-corrected); face-to-face experimenter beats document
+- [Time to Form a Habit: Systematic Review and Meta-Analysis](sources/singh-2024-habit-formation-meta-analysis.md) — Singh et al., *Healthcare*, 2024-12-09; medians 59–66 days, individuals 4–335; self-chosen habits stronger
+- [Does Monitoring Goal Progress Promote Goal Attainment?](sources/harkin-2016-progress-monitoring.md) — Harkin et al., *Psychological Bulletin*, 2016; 138 RCTs, d = 0.40; behaviour vs outcome monitoring; the ostrich problem
+- [Task interrupted: a plan for returning helps you move on](sources/leroy-glomb-2018-ready-to-resume.md) — UW News on Leroy & Glomb, 2018-01-16; ready-to-resume plans cut attention residue; resumption itself untested
+- [Planning Fallacy: Evidence and Product Implications](sources/planning-fallacy-evidence-and-product-implications.md) — unattributed AI research brief (user-supplied), undated; inside vs outside view, reference-class forecasting, calibration features, effort vs elapsed
+- [Goal Map visual references](sources/goal-map-visual-references-perplexity.md) — Perplexity Deep Research for Goal Map's journey layer, 2026-10-03; ~30 voyage maps, portolans, journey games and film maps; three knowledge states, routes by quality not difficulty, tension without judgment, AI-look and rights pitfalls
+- [Exploring the "Planning Fallacy"](sources/buehler-griffin-ross-1994-planning-fallacy.md) — Buehler, Griffin & Ross, *JPSP*, 1994; 29.7% finish by best estimate; recall alone fails, linking past to present removes the bias; observers aren't optimistic
+- [State of Subscription Apps 2026](sources/revenuecat-state-of-subscription-apps-2026.md) — RevenueCat, 2026; AI apps sell but don't stick; day zero decides; "not enough usage" churn; reactivate when the problem returns
+
+<!-- books -->
+### Books
+
+- [The Origin of Species](sources/origin-of-species-darwin.md) — Charles Darwin, 1859
+- [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](sources/out-of-control-kelly.md) — Kevin Kelly, 1994
+- [A Mathematician's Lament](sources/mathematicians-lament-lockhart.md) — Paul Lockhart
+- [Rework](sources/rework-fried-hansson.md) — Jason Fried & DHH
+- [Mindstorms](sources/mindstorms-papert.md) — Seymour A. Papert
+- [The Art of Doing Science and Engineering](sources/art-of-doing-science-hamming.md) — Richard W. Hamming
+- [Range: Why Generalists Triumph](sources/range-epstein.md) — David Epstein
+- [Nexus](sources/nexus-harari.md) — Yuval Noah Harari
+- [The Three-Body Problem](sources/three-body-problem-liu.md) — Cixin Liu
+- [Ender's Game](sources/enders-game-card.md) — Orson Scott Card
+- [The Player of Games](sources/player-of-games-banks.md) — Iain M. Banks
+- [Consider Phlebas](sources/consider-phlebas-banks.md) — Iain M. Banks
+- [Metamagical Themas](sources/metamagical-themas-hofstadter.md) — Douglas Hofstadter
+- [Elon Musk](sources/elon-musk-isaacson.md) — Walter Isaacson
+- [Jurassic Park](sources/jurassic-park-crichton.md) — Michael Crichton
+- [On Writing: A Memoir of the Craft](sources/On%20Writing_%20A%20Memoir%20of%20the%20Craft%20-%20Stephen%20King.md) — Stephen King
+- [Characters and Viewpoint](sources/characters-and-viewpoint-card.md) — Orson Scott Card
+- [Ready Player One](sources/ready-player-one-cline.md) — Ernest Cline
+- [The Peripheral](sources/the-peripheral-gibson.md) — William Gibson
+- [The Mushroom at the End of the World](sources/mushroom-end-of-world-tsing.md) — Anna Lowenhaupt Tsing
+- [Delta-v](sources/delta-v-suarez.md) — Daniel Suarez
+- [The Song of the Cell](sources/song-of-the-cell-mukherjee.md) — Siddhartha Mukherjee
+- [Mythos](sources/mythos-fry.md) — Stephen Fry
+- [Reamde](sources/reamde-stephenson.md) — Neal Stephenson
+- [The Diamond Age: Or, A Young Lady's Illustrated Primer](sources/diamond-age-stephenson.md) — Neal Stephenson, 1995; the AI tutor-book YC's Fall 2026 "Primer" RFS is named after
+- [Twelve Tomorrows](sources/twelve-tomorrows-anthology.md) — Various (ed. Stephen Cass)
+- [Leonardo da Vinci](sources/leonardo-da-vinci-isaacson.md) — Walter Isaacson
+- [Wonderbook](sources/wonderbook-vandermeer.md) — Jeff VanderMeer
+- [Mass Effect: Ascension](sources/mass-effect-ascension-karpyshyn.md) — Drew Karpyshyn
+- [Mass Effect: Retribution](sources/mass-effect-retribution-karpyshyn.md) — Drew Karpyshyn
+- [The Time Traveller's Almanac](sources/time-travellers-almanac.md) — Ann & Jeff VanderMeer (eds.)
+- [The Art of Seduction](sources/art-of-seduction-greene.md) — Robert Greene
+- [Creativity, Inc.](sources/creativity-inc-catmull.md) — Ed Catmull with Amy Wallace
+- [The Infinity Machine](sources/infinity-machine-mallaby.md) — Sebastian Mallaby
+- [The Nvidia Way](sources/nvidia-way-kim.md) — Tae Kim
+- [How to Solve It](sources/how-to-solve-it-polya.md) — G. Polya
+- [Howard Hughes: His Life and Madness](sources/howard-hughes-barlett-steele.md) — Donald L. Barlett & James B. Steele
+- [The Age of Napoleon](sources/age-of-napoleon-durant.md) — Will & Ariel Durant
+- [The Manual of Free Energy Devices and Systems](sources/manual-free-energy-devices-kelly.md) — D.A. Kelly
+- [Memento (Shooting Script)](sources/memento-2000-script.md) — Christopher Nolan, 2000
+- [Inception (Shooting Script)](sources/inception-2010-script.md) — Christopher Nolan, 2010
+- [The Prestige (Screenplay)](sources/the-prestige-2006-script.md) — Christopher & Jonathan Nolan, 2006
+- [Back to the Future (Screenplay)](sources/back-to-the-future-1985-script.md) — Robert Zemeckis & Bob Gale, 1985
+- [Terminator 2: Judgment Day (Screenplay)](sources/terminator-2-1991-script.md) — James Cameron & William Wisher, 1991
+- [The Futurist: The Life and Films of James Cameron](sources/futurist-keegan.md) — Rebecca Keegan, 2009
+- [A Journey to the Centre of the Earth](sources/journey-centre-earth-verne.md) — Jules Verne, 1864
+- [Around the World in Eighty Days](sources/around-world-eighty-days-verne.md) — Jules Verne, 1872
+- [Twenty Thousand Leagues Under the Sea](sources/twenty-thousand-leagues-verne.md) — Jules Verne, 1870
+- [The Count of Monte Cristo](sources/count-of-monte-cristo-dumas.md) — Alexandre Dumas, 1844
+- [The Martian](sources/the-martian-weir.md) — Andy Weir, 2011
+- [How to Win Friends and Influence People](sources/how-to-win-friends-carnegie.md) — Dale Carnegie, 1936
+- [The Wonderful Wizard of Oz](sources/wonderful-wizard-of-oz-baum.md) — L. Frank Baum, 1900
+- [The Notebooks of Leonardo da Vinci](sources/notebooks-leonardo-da-vinci.md) — Leonardo da Vinci, compiled posthumously
+- [A History of Inventions, Discoveries, and Origins (Vol. II)](sources/history-of-inventions-beckmann.md) — Johann Beckmann, 1846
+- [The Progress of Invention in the Nineteenth Century](sources/progress-of-invention-byrn.md) — Edward W. Byrn, 1900
+- [How It Works](sources/how-it-works-williams.md) — Archibald Williams, 1914
+- [Practical Mechanics for Boys](sources/practical-mechanics-zerbe.md) — James Slough Zerbe, 1914
+- [The Library of Greek Mythology](sources/library-of-greek-mythology-apollodorus.md) — Apollodorus (pseudo-Apollodorus), c. 100 AD
+- [And Suddenly the Inventor Appeared: TRIZ, the Theory of Inventive Problem Solving](sources/And%20Suddenly%20the%20Inventor%20Appeared%20-%20TRIZ,%20the%20Theory%20of%20Inventive%20Problem%20Solving%20(Genrich%20Altshuller)%20(z-library.sk,%201lib.sk,%20z-lib.sk).md) — Genrich Altshuller, 1996
+
+<!-- videos -->
+### Videos
+
+- [Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI](sources/karpathy-skill-issue-code-agents.md) — Andrej Karpathy, *No Priors*, 2026-04
+- [How to Get Startup Ideas (YC Startup School)](sources/how-to-get-startup-ideas-yc.md) — YC / Jared, Startup School talk
+- [DeepMind CEO — Interview Transcript](sources/deepmind-ceo-transcript.md) — raw transcript, needs reprocessing
+- [How to Build a Company with AI](sources/build-a-company-with-ai.md) — Diana (YC partner), Y Combinator, 2025
+- [Context is the New Code](sources/context-is-the-new-code.md) — Patrick (Tessel), AI Engineer conference, 2025
+- [Leveling Up AI Agent Skills with Supabase and Evals](sources/ai-agents-supabase.md) — Pedro, Supabase, 2026
+- [Nat Friedman and Daniel Gross on the Slow Start of the Singularity](sources/nat-friedman-daniel-gross.md) — Nat Friedman & Daniel Gross, Stripe Sessions, 2026
+- [Zombie Interfaces and the AI Building Boom](sources/katie-dill-stripe.md) — Katie Dill, Stripe; post-WWII modernism as warning for AI-built software, scaling intent not consistency, editor role after generation
+- [How to Build Systems to Actually Achieve Your Goals](sources/build-systems-not-goals.md) — Justin Sung, 2025-07-11; systems over willpower, plan for the worst day, peel the band-aids
+- [Claude Code Explainer](sources/claude-code-explainer.md) — short explainer video (garbled transcript)
+- [The Company Brain](sources/company-brain-yc.md) — Y Combinator (inferred), ~1-2 min, tacit org knowledge as AI bottleneck; skills files as executable org knowledge
+- [Five AI Paper Presentations at Y Combinator](sources/5-papers-ycombinator.md) — Y Combinator, 2026-06-13; self-play for LLMs, protein AI, stream RAG, formal verification, RTS-style agentic workflow
+- [How Your Brain Makes (and Changes) Memories](sources/memory-kurzgesagt.md) — Kurzgesagt – In a Nutshell; assemblies, hippocampal indexing, reconsolidation as the rewriting mechanism behind identity drift
+- [Working Hard Is Not Enough](sources/working-hard-is-not-enough-veritasium.md) — Veritasium; power laws vs. normal distributions, self-organized criticality, universality, preferential attachment, decision strategy in fat-tail domains
+- [The Power Law: Venture Capital and the Making of the New Future](sources/power-law-mallaby.md) — Sebastian Mallaby, 2022; history of Silicon Valley VC; power law as selection pressure for grand-slam ideas; VC as third institution of capitalism; Traitorous Eight origin story; outsider advantage; future discovered not predicted
+- [Learning While You Sleep](sources/learning-while-you-sleep-lamish.md) — Lamish (Anthropic), AI DevCon; context engineering evolution, file system memory, production guardrails, dreaming as out-of-band batch memory consolidation
+- [Elon Musk, thank you so much for joining me on the Insider](sources/elon-musk-economist.md) — Elon Musk interviewed by The Economist, 2026-07; AI/robot economics, Stockfish-level capability, deflation prediction, MPAA-style lab self-regulation proposal, Starlink geopolitics, Culture novels as target state
+- [The Fringe Benefits of Failure, and the Importance of Imagination](sources/rowling-harvard-commencement.md) — J.K. Rowling, Harvard commencement address, 2008-06-05; benefits of failure, imagination as empathy/perspective-taking, Amnesty International testimony
+- [The Art of the One-Page Design Document (second pass)](sources/gdc-one-page-design-v2.md) — Stone Librande, GDC; **the fuller of two ingests of the same talk** — bibles vs wikis vs one page, rock-paper-scissors redrawn into sliders, Spore's 256→36 vector collapse, and can't-fit-on-one-page as a complexity diagnostic
+- [The Art of the One-Page Design Document (first pass)](sources/gdc-one-page-design.md) — Stone Librande, GDC; shorter earlier ingest of the same raw file, kept for comparison — thesis-accurate, misses the representation-changes-the-design argument
+- [How I Made $65K in 3 Days](sources/starter-story-supergrow-lifetime-deal.md) — Starter Story, 2025-09-10; Supergrow (AI LinkedIn writer): validated market + 1% better, lifetime deal as rented distribution (40% cut, 300 cap), LTD buyers → advocates → subscription
+- [How I Built the #1 App on The App Store (Twice)](sources/bro-app-store-roger-chen.md) — Roger Chen on the Superwall podcast, 2025-12-06; Lobby's network density (5 friends on day one) and group-picture invites, Bro's tappable mockup and ads as validation, AI for context not content
+
+<!-- game articles -->
+### Game Articles
+
+- [Mass Effect Storyline (Complete Series)](sources/mass-effect-storyline-fandom.md) — Mass Effect Wiki, 2024
+- [Finding Inspiration and a Bit of Hope in Corgispace](sources/corgispace-inspiration-hope.md) — Danielle Riendeau, *Game Developer*, 2026-04-08
+- ["I Have Always Felt the World Was a Harsh Place": Hidetaka Miyazaki](sources/miyazaki-guardian-interview-2024.md) — Keza MacDonald, *The Guardian*, 2024-06-21
+- [An Interview with FromSoftware's Hidetaka Miyazaki](sources/miyazaki-elden-ring-ps-interview.md) — *PlayStation Blog*, 2022-01-28
+- [Flappy Bird](sources/flappy-bird-wikipedia.md) — Wikipedia, 2014-01-30
+- [2048](sources/2048-wikipedia.md) — Wikipedia, 2014-03-09
+- [Web game distribution, portal requirements and retention benchmarks (2026)](sources/web-game-distribution-and-retention-2026.md) — research synthesis, 2026-09-21; portal revenue shares, CrazyGames technical gates, retention/session benchmarks, Apple Guideline 4.2 — figures third-party reported and unverified
+- [Roblox horror mechanics and the 90s anthology structures](sources/roblox-horror-and-90s-anthology-structure.md) — research synthesis, 2026-09-23; core loops of the top Roblox horror experiences in mechanical terms, the 14 Twilight Zone ending structures, Stine's rules — and an unresolved conflict between the platform's short-loop signal and horror's 45–90 minute co-op reality
+- [Roblox Horror in 2026: Market Structure, Engagement, Retention, Launches and Policy](sources/roblox-horror-market-2026-perplexity.md) — Perplexity Advanced Deep Research, 2026-09-23; CCU concentration (HHI 2,695), the session-length correction, **zero strictly solo titles in the top 30**, four irreconcilable retention datasets, the 18-month launch cohort, and the moderation ladder
+- [Coziness in Games: Safety, Softness, and Satisfied Needs](sources/project-horseshoe-2017-coziness.md) — Project Horseshoe group report, 2017; coziness defined by what negates it (responsibility, notifications, extrinsic reward); monetization ethics
+
+## Concepts
+
+- [Imaginative Empathy](concepts/imaginative-empathy.md)
+- [Natural Selection](concepts/natural-selection.md)
+- [MICE Quotient](concepts/mice-quotient.md)
+- [Token Maxing](concepts/token-maxing.md)
+- [Metaprompting](concepts/metaprompting.md)
+- [Cognitive Externalization](concepts/cognitive-externalization.md)
+- [Harness Engineering](concepts/harness-engineering.md)
+- [Post-Generation Editing](concepts/post-generation-editing.md)
+- [Worst-Day Design](concepts/worst-day-design.md)
+- [Implementation Intentions](concepts/implementation-intentions.md)
+- [Coziness](concepts/coziness.md)
+- [Planning Fallacy](concepts/planning-fallacy.md)
+- [Fair Uncertainty](concepts/fair-uncertainty.md)
+- [Just-in-Time Software](concepts/just-in-time-software.md)
+- [Simulation Hypothesis](concepts/simulation-hypothesis.md)
+- [Second Law of Infodynamics](concepts/second-law-of-infodynamics.md)
+- [Three Dimensions of Time](concepts/three-dimensions-of-time.md)
+- [Agentic Coding](concepts/agentic-coding.md)
+- [Context Development Life Cycle (CDLC)](concepts/context-development-lifecycle.md)
+- [Auto Research](concepts/auto-research.md)
+- [LLM Jaggedness](concepts/llm-jaggedness.md)
+- [Creativity](concepts/creativity.md)
+- [Cybernetics](concepts/cybernetics.md)
+- [Constructionism](concepts/constructionism.md)
+- [Dark Forest Theory](concepts/dark-forest-theory.md)
+- [Wicked vs. Kind Learning Environments](concepts/wicked-vs-kind-learning-environments.md)
+- [Games as Reality](concepts/games-as-reality.md)
+- [First Principles Thinking](concepts/first-principles-thinking.md)
+- [The Culture (Iain M. Banks)](concepts/culture-universe.md)
+- [Information Networks](concepts/information-networks.md)
+- [Salvage Capitalism & Assemblage Thinking](concepts/salvage-capitalism.md)
+- [Multi-Agent Orchestration](concepts/multi-agent-orchestration.md)
+- [Gossip Protocols in Agent Systems](concepts/gossip-protocols-agents.md)
+- [Agent Memory](concepts/agent-memory.md)
+- [Wet AI](concepts/wet-ai.md)
+- [Insight Learning](concepts/insight-learning.md)
+- [Community Biotechnology](concepts/community-biotech.md)
+- [Machine Learning in Science](concepts/machine-learning-in-science.md)
+- [Startup Idea Evaluation](concepts/startup-idea-evaluation.md)
+- [Whole-Game Learning](concepts/whole-game-learning.md)
+- [AI Organizational Intelligence](concepts/ai-organizational-intelligence.md)
+- [Organizational Tacit Knowledge](concepts/organizational-tacit-knowledge.md)
+- [Blockchain Interoperability](concepts/blockchain-interoperability.md)
+- [Flow State](concepts/flow-state.md)
+- [Intrinsic Motivation](concepts/intrinsic-motivation.md)
+- [Game Design Roles](concepts/game-design-roles.md)
+- [Paranoid Contained Narrative](concepts/paranoid-contained-narrative.md)
+- [Information Asymmetry (Narrative)](concepts/information-asymmetry.md)
+- [The Metrics Trap](concepts/metrics-trap.md)
+- [Apophenia](concepts/apophenia.md)
+- [ARG Mystery Mechanics](concepts/arg-mystery-mechanics.md)
+- [AI Agent Personality Design](concepts/ai-agent-personality-design.md)
+- [AI-Mediated Virality](concepts/archive/ai-mediated-virality.md)
+- [Paradox](concepts/paradox.md)
+- [AI in Mathematics](concepts/ai-in-mathematics.md)
+- [Game Auteur](concepts/game-auteur.md)
+- [Agent Skills](concepts/agent-skills.md)
+- [Eval-Driven Development](concepts/eval-driven-development.md)
+- [Prompt Injection](concepts/prompt-injection.md)
+- [Technological Singularity](concepts/technological-singularity.md)
+- [Neural Networks](concepts/neural-networks.md)
+- [Gradient Descent](concepts/gradient-descent.md)
+- [Transformer Architecture](concepts/transformer-architecture.md)
+- [Word Embeddings](concepts/word-embeddings.md)
+- [Holography](concepts/holography.md)
+- [Elegance (Game Design)](concepts/elegance-game-design.md)
+- [Emergent Narrative](concepts/emergent-narrative.md)
+- [Yomi](concepts/yomi.md)
+- [Concentric Development](concepts/concentric-development.md)
+- [Vertical Slice](concepts/vertical-slice.md)
+- [Experience Goals](concepts/experience-goals.md)
+- [Holographic Vulnerability](concepts/holographic-vulnerability.md)
+- [Regulatory Integrity](concepts/regulatory-integrity.md)
+- [Self-Continuity](concepts/self-continuity.md)
+- [Reminiscence Bump](concepts/reminiscence-bump.md)
+- [Self-Determination Theory](concepts/self-determination-theory.md)
+- [Social Identity Theory](concepts/social-identity-theory.md)
+- [Affect Circumplex (Valence–Arousal)](concepts/affect-circumplex.md)
+- [Emotional Memory](concepts/emotional-memory.md)
+- [Bounded Generalized Reciprocity](concepts/bounded-generalized-reciprocity.md)
+- [Illusory Insight](concepts/illusory-insight.md)
+- [Self-Expression as Play](concepts/self-expression-as-play.md)
+- [Recommendation as Identity](concepts/recommendation-as-identity.md)
+- [Experiential Memory](concepts/experiential-memory.md)
+- [Memory Forgetting](concepts/memory-forgetting.md)
+- [Task-Specialized SLM Networks](concepts/task-specialized-slm-networks.md)
+- [Neuro-Symbolic Agent Architecture](concepts/neuro-symbolic-agent-architecture.md)
+- [Hallucinated Agency](concepts/hallucinated-agency.md)
+- [World Models](concepts/world-models.md)
+- [Story as Excavation](concepts/story-as-excavation.md)
+- [Ideal Reader](concepts/ideal-reader.md)
+- [Loop Engineering](concepts/loop-engineering.md)
+- [Self-Guided Self-Play](concepts/self-guided-self-play.md)
+- [Verified Intelligence](concepts/verified-intelligence.md)
+- [Recognition-Primed Decision Making](concepts/recognition-primed-decision-making.md)
+- [Mnemonic Medium](concepts/mnemonic-medium.md)
+- [Tractable Immersion](concepts/tractable-immersion.md)
+- [Block Universe](concepts/block-universe.md)
+- [Drama Management](concepts/drama-management.md)
+- [Easter Eggs as Design Philosophy](concepts/easter-eggs-as-design.md)
+- [Metaverse as Escape](concepts/metaverse-as-escape.md)
+- [Memory Reconsolidation](concepts/memory-reconsolidation.md)
+- [Power Laws](concepts/power-laws.md)
+- [Swarm Intelligence](concepts/swarm-intelligence.md)
+- [Coevolution](concepts/coevolution.md)
+- [Assembly of Complexity](concepts/assembly-of-complexity.md)
+- [Dreaming (Agent Memory Consolidation)](concepts/dreaming.md)
+- [Diminishing Research Returns (Ideas Getting Harder to Find)](concepts/diminishing-research-returns.md)
+- [Capability-Gated Oversight](concepts/capability-gated-oversight.md)
+- [Deceptive Alignment](concepts/deceptive-alignment.md)
+- [Genealogy as Knowledge Graph](concepts/genealogy-as-knowledge-graph.md)
+- [Diffuse Preference Aggregation](concepts/diffuse-preference-aggregation.md)
+- [Engineering Culture](concepts/engineering-culture.md)
+- [Incentive-Aligned Infrastructure](concepts/incentive-aligned-infrastructure.md)
+- [Post-Institutional Meaning-Making](concepts/post-institutional-meaning-making.md)
+- [Network Effects vs. Word-of-Mouth Diffusion](concepts/network-effects-vs-wom-diffusion.md)
+- [Research Craft](concepts/research-craft.md)
+- [Failure Cost Asymmetry](concepts/failure-cost-asymmetry.md)
+- [Learning from Demonstration](concepts/learning-from-demonstration.md)
+- [Self-Initiation Gap](concepts/self-initiation-gap.md)
+- [Rich-or-King Tradeoff](concepts/rich-or-king-tradeoff.md)
+- [Leverage](concepts/leverage.md)
+- [Constraint as Camouflage](concepts/constraint-as-camouflage.md)
+- [Comprehension Floor](concepts/comprehension-floor.md)
+- [Interface Lag](concepts/interface-lag.md)
+- [Outsider Advantage](concepts/outsider-advantage.md)
+- [Contradiction-Driven Design](concepts/contradiction-driven-design.md)
+- [Backward-Chain Game Design](concepts/backward-chain-game-design.md)
+- [Compulsion vs Craft](concepts/compulsion-vs-craft.md)
+- [Retention Proxy Testing](concepts/retention-proxy-testing.md)
+- [Representation Shapes the Solution](concepts/representation-shapes-the-solution.md)
+- [Adaptive Tutoring](concepts/adaptive-tutoring.md)
+
+## Mission
+
+- [North Star](mission/north-star.md) — Goal: personal AI assistant → fund space exploration through AI and game projects
+- [Weekly Progress](mission/weekly-progress.md) — Weekly log of what I built, shipped, or learned
+
+## Decisions
+
+- [Decision Log](decisions/decision-log.md) — Important decisions with context and reasoning
+
+## Answers
+
+- [Answers](answers/README.md) — Answers to questions I've asked the wiki
+- [Unexpected Connections](answers/unexpected-connections.md) — 12 new cross-domain links (Verne/Hughes/Monte Cristo × AI research; holography × poisoning; insight × grokking; yomi × dark forest)
+- [Minimum World Model Fidelity](answers/minimum-world-model-fidelity.md) — Five symbolic fact tables; semantic richness beats physics simulation for quest coherence
+- [Time Travel: Sustained Model Ambiguity](answers/time-travel-model-ambiguity.md) — Yes, if you never establish the counterfactual baseline; dual-interpretation event construction required
+- [Time Travel: Mixed Models Simultaneously](answers/time-travel-mixed-models.md) — Three versions (attractor zones, self-fulfilling beliefs, different branches); most generative: belief determines behavior determines model
+- [Book Recommendations — Library Audit + Gap Analysis](answers/book-recommendations-2026-06-21.md) — All 57 book sources ranked for Side Quest Engine relevance; 6 gaps identified with 12 specific recommendations
+- [Why Origination Is Harder Than Execution](answers/why-origination-is-harder-than-execution.md) — Five asymmetries between executing a supplied objective and originating one; convergence comes from option-collapse, not better evaluation; imagination mobilizes on the actual, paralyzes on the possible
+- [AI from the Future — Story Concept Research](answers/ai-from-future-story-concepts.md) — 17 concepts synthesized for a story about an AI from the future helping an engineer prevent a disaster; covers temporal mechanics, AI character design, protagonist psychology, plot architecture, and disaster premise
+- [The Instagram Pattern, Audited Against the Wiki](answers/instagram-pattern-2026.md) — Vault-only re-check of the "capability ambient, interface lagging" analysis; two supported threads (cost inversion, refusal-as-strategy), four unsupported 2026 ideas, and a gap list covering voice, on-device, latency-as-shape and ambient capture
+- [Inventing Outside Your Field](answers/inventing-outside-your-field.md) — Outsider advantage is depth elsewhere applied to a wicked domain, not ignorance; three filter questions (wicked or kind, transferable substrate, tar pit) and the insight-substrate objection. **Extended 2026-09-21** with two of its own open questions answered: the pre-entry wicked/kind test (partial — delay and non-repetition inspectable, misleadingness retrospective; forecast-and-check on other people's attempts is the probe) and the substrate threshold (no threshold — three requirements, marked by prototypes-vs-rules, settled by a bounded attempt). Both land on the same resolution: cheap exit instead of certainty
+- [Goal Map Feature Inspiration](answers/goal-map-feature-inspiration.md) — Exploration pass: 40 wiki concepts mapped to possible Goal Map features across 7 themes, each tagged by app area and AI vs deterministic; unprioritised
+- [Goal Map — What the Wiki Says](answers/goal-map-wiki-synthesis.md) — Ranked follow-up: top 10 ideas by fit to "reach the next milestone" (honest-narrator rule, session hand-off line, worst-day step, beat-library story, commitment window), six tensions with the current design, two bolder directions, reread list and vault gaps; updated 2026-10-01 with the goal-achievement research report and then checked against seven primary sources (evidence-check table, Tensions G–I, cozy and pricing evidence)
+
+## Projects
+- [Goal Map — Overview](projects/goal-map/overview.md) — Active build (2026-10-01), going to product: one goal → AI milestones → a map of daily footsteps; rules, repo docs, research links
+- [Goal Map — Build Log](projects/goal-map/build-log.md) — Build log under the CLAUDE.md rule; Tasks 1–5 done 2026-09-28, Task 6 in progress
+
+- [Novel Cross-Domain Connections](projects/novel-connections.md) — Unexpected links across all wiki sources, especially fiction × AI alignment
+- [Side Quest Engine](projects/side-quest-engine.md) — Game engine side quest system with organic NPC gossip propagation mechanics (active, w/ cousin)
+- [Side Quest AI — Gap Report](projects/game/gap-report.md) — Engineering gap analysis across 6 questions: game state, quest generation, NPC model, consistency, player feel, tech stack
+- [Side Quest AI — Experience Goal](projects/game/experience-goal.md) — "Disorienting recognition": the world noticed their specific story. 3 pass signals, 3 failure signals for playtesting.
+- [First Project — Strategic Analysis](projects/first-project.md) — What to build first, top open questions, and wiki gaps identified from full wiki read
+- [Attractor — Build Log](projects/attractor/build-log.md) — One-input arcade game, live on itch.io; shipped work, open code items, next actions
+- [The Attractor Zone](projects/attractor/attractor-zone.md) — Distribution strategy: fictional in-character anthology-horror world built around the game, not marketing
+- [Basic Game — Pipeline](projects/basic-game/pipeline.md) — Concept-to-distribution framework for the hardest-to-put-down basic game: phases, kill gates, mapped against Lemarchand's four-phase process. **Replatformed to Roblox 2026-09-23**; calendar withdrawn pending re-scope
+- [Basic Game — Constraint Sheet](projects/basic-game/constraint-sheet.md) — Phase 0 worksheet: channel, payout, metric floors, technical envelope, stack, iOS seams, validation method, distribution world. **Gate 0 pending one sign-off**
+- [Basic Game — Constraint Sheet (web, superseded)](projects/basic-game/constraint-sheet-WEB-SUPERSEDED.md) — the web-and-portals Phase 0, kept as evidence about the method rather than as live canon
+- [Basic Game — Theme Ideas (SEALED)](projects/basic-game/theme-ideas-SEALED.md) — Julien's pre-Phase-1 theme ideas, deliberately unopened until Phase 4; doubles as the falsification test for backward-chain derivation
+- [Revenue Project — Honest Analysis](projects/revenue-project.md) — Distill: content → structured knowledge briefs. Revenue projections, first 100 customers, kill risks, situation assessment.
