@@ -2,7 +2,7 @@
 type: project
 title: Goal Map
 status: active
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [ai, llm, agents, productivity, design, psychology, behavior]
 ---
 
@@ -15,9 +15,8 @@ off-path steps trigger a gentle drift warning. It started as a two-day prototype
 as a product, in stages, while staying an AI-engineering portfolio piece. The product's bet: "we
 don't sell better answers than a chatbot; we sell finishing."
 
-**Status (2026-10-03):** active build and the current priority. Tasks 1–6 and P1 (the path
-design pipeline) are done. The 10-03 doc commit (`a54674e`, waypoints, positioning, design
-brief) is local and not pushed.
+**Status (2026-10-04):** active build and the current priority. Tasks 1–6 and P1 (the path
+design pipeline) are done. Everything is pushed, up to `897c55a`.
 **Current task:** P1b, ask before planning. After that P3 → P4 → W → G → GE → P2 → visual direction → J1–J3 → 7 → H → S → J4 → 8 → 9
 (order in [TASKS.md](docs/TASKS.md)).
 **Next gate:** a demand test with strangers, then the test week with 10–20 builders (go / change / stop).
